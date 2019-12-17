@@ -1,0 +1,13 @@
+output_dir: "."
+navbar:
+    title: "Evo Eco PhD Meeting Lutherstadt Wittenberg"
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Previous Meetings"
+        href: previous.html
+      - text: "About"
+        href: about.html
+    right:
+      - text: "Send us a message"
+        href: contact.html

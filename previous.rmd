@@ -1,0 +1,10 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<br>
+<br>
+Here you find some information on the three previous PhD meetings. They took place in Bautzen, Prague and Bayreuth.

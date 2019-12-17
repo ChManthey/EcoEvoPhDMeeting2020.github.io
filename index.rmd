@@ -1,0 +1,15 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<br>
+<br>
+<center># **4th Evo Eco PhD Meeting**
+<center>### Lutherstadt Wittenberg, 04.-06.03.2020
+
+<center>![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/merian.JPG){width=250px}
+
+This is the homepage of the 4th Evo Eco PhD Meeting. Here you can find out about the presentations, time schedule and previous meetings.
